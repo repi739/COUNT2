@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 public class MainActivity extends ActionBarActivity {
 
-    //test
+    //test aiueo
     TextView text;
     int number;
 
